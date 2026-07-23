@@ -79,44 +79,48 @@ Relationships: orders → customers, orderdetails → products → productlines,
 
 ## Dashboard Structure
 
-The dashboard consists of 6 pages and 1 summary page.
-
 **Page 1 - Sales Overview**
+KPI cards: Total Revenue ($9.6M), Total Profit ($3.8M), Total Orders (326), Avg Order Value ($29.5K).
+Monthly Revenue Trend and Revenue by Product Line.
+*Classic Cars account for 40% of total revenue across all years.*
 
-KPI cards: Total Revenue, Total Profit, Total Orders, Avg Order Value.
-
-Monthly Revenue Trend (line chart by year), Revenue by Product Line (bar chart).
-
-Slicers: Select Year, Select Product Line.
+![Sales Overview](screenshots/01_sales_overview.png)
 
 **Page 2 - Geography & Growth**
+Revenue by Country (filled map), Year-over-Year Revenue Growth, Revenue by Quarter.
+*Revenue grew 36% from 2003 to 2004. USA leads with $3.3M — 3x more than Spain in 2nd place.*
+*Note: 2005 data covers January–October only.*
 
-Revenue by Country (filled map), Year-over-Year Revenue Growth (column chart), Revenue by Quarter (line chart).
-
-Note: 2005 data covers January–October only - full-year comparison is not applicable.
+![Geography and Growth](screenshots/02_geography_growth.png)
 
 **Page 3 - Product Performance**
+Top 10 Products by Performance and Stock Risk vs Revenue scatter chart.
+*Two products identified as critical: high revenue but dangerously low stock levels.*
 
-Top 10 Products by Performance (bar chart), Revenue Performance vs Stock Availability (scatter chart - products with high demand and low stock are highlighted as critical restocking priorities).
+![Product Performance](screenshots/03_product_performance.png)
 
 **Page 4 - Inventory Analysis**
+Profit Margin % by Product Line, Inventory count, Bottom 10 Products by Performance.
+*Motorcycles have the highest margin (41.8%). Trains show the weakest performance across all metrics.*
 
-Profit Margin % by Product Line (bar chart), Current Inventory by Product Line (bar chart - count of products), Bottom 10 Products by Performance (candidates for inventory reduction).
+![Inventory Analysis](screenshots/04_inventory_analysis.png)
 
 **Page 5 - Customer Overview**
+New Customers by Month, Top 10 VIP and Bottom 5 Customers by Profit.
+*No new customers acquired after September 2004 — a critical signal for marketing strategy.*
 
-KPI cards: Total Customers, Customer LTV, Avg Profit per Customer, Top Country.
-
-New Customers by Month (line chart - acquisition trend by year), Top 10 VIP Customers by Profit, Bottom 5 Customers by Profit.
+![Customer Overview](screenshots/05_customer_overview.png)
 
 **Page 6 - Customer Segments**
+Top 10 Countries by Revenue and Customer Value Analysis scatter chart.
+*Euro+ Shopping Channel and Mini Gifts Distributors are clear outliers — VIP segment drives disproportionate profit.*
 
-Top 10 Countries by Revenue (bar chart), Customer Value Analysis (scatter chart - LTV vs Total Profit per customer, VIP segment clearly separated from regular customers).
+![Customer Segments](screenshots/06_customer_segments.png)
 
 **Page 7 - Key Insights & Recommendations**
+Summary of findings and actionable business recommendations.
 
-Summary of key findings and actionable business recommendations.
-
+![Key Insights](screenshots/07_key_insights.png)
 
 ## Key Findings
 
