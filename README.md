@@ -125,7 +125,6 @@ Top 10 Countries by Revenue and Customer Value Analysis scatter chart.
 **Page 7 - Key Insights & Recommendations**
 
 Summary of findings and actionable business recommendations.
-
 ![Key Insights](screenshots/07_key_insights.png)
 
 ## Key Findings
