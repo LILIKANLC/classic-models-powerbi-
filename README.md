@@ -2,7 +2,7 @@
 
 **Tools:** Power BI (Power Query, DAX, Data Modeling)
 
-**Dataset:** Classic Models - sample database of a scale model cars retailer
+**Dataset:** [Classic Models — MySQL Sample Database](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
 
 **Period:** 2003-2005
 
