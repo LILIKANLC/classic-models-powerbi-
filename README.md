@@ -80,6 +80,7 @@ Relationships: orders → customers, orderdetails → products → productlines,
 ## Dashboard Structure
 
 **Page 1 - Sales Overview**
+
 KPI cards: Total Revenue ($9.6M), Total Profit ($3.8M), Total Orders (326), Avg Order Value ($29.5K).
 Monthly Revenue Trend and Revenue by Product Line.
 *Classic Cars account for 40% of total revenue across all years.*
@@ -87,36 +88,42 @@ Monthly Revenue Trend and Revenue by Product Line.
 ![Sales Overview](screenshots/01_sales_overview.png)
 
 **Page 2 - Geography & Growth**
+
 Revenue by Country (filled map), Year-over-Year Revenue Growth (2005 data covers January-October only), Revenue by Quarter.
 *Revenue grew 36% from 2003 to 2004. USA leads with $3.3M - 3x more than Spain in 2nd place.*
 
 ![Geography and Growth](screenshots/02_geography_growth.png)
 
 **Page 3 - Product Performance**
+
 Top 10 Products by Performance and Stock Risk vs Revenue scatter chart.
 **Three products identified as critical restocking priorities: 1968 Ford Mustang, 1928 Ford Phaeton Deluxe, and 1997 BMW F650 ST - high revenue performance combined with dangerously low stock levels.*. Note: One extreme outlier (Stock Risk = 67.67) was excluded to improve visualization readability.*
 
 ![Product Performance](screenshots/03_product_performance.png)
 
 **Page 4 - Inventory Analysis**
+
 Profit Margin % by Product Line, Inventory count, Bottom 10 Products by Performance.
 *Motorcycles have the highest margin (41.8%). Trains show the weakest performance across all metrics.*
 
 ![Inventory Analysis](screenshots/04_inventory_analysis.png)
 
 **Page 5 - Customer Overview**
+
 New Customers by Month, Top 10 VIP and Bottom 5 Customers by Profit.
 *No new customers acquired after September 2004 - a critical signal for marketing strategy.*
 
 ![Customer Overview](screenshots/05_customer_overview.png)
 
 **Page 6 - Customer Segments**
+
 Top 10 Countries by Revenue and Customer Value Analysis scatter chart.
 *Euro+ Shopping Channel and Mini Gifts Distributors are clear outliers - VIP segment drives disproportionate profit.*
 
 ![Customer Segments](screenshots/06_customer_segments.png)
 
 **Page 7 - Key Insights & Recommendations**
+
 Summary of findings and actionable business recommendations.
 
 ![Key Insights](screenshots/07_key_insights.png)
@@ -137,7 +144,9 @@ Summary of findings and actionable business recommendations.
 
 - **No new customers were acquired after September 2004** - urgent need for marketing investment
 
-- **Customer LTV = $39K** - this defines the maximum reasonable budget per new customer acquisition
+- **Customer LTV = $98K** avg revenue per customer
+
+- **$39K** avg profit per customer — the key figure for defining acquisition budget
 
 - **USA dominates revenue** ($3.3M vs $1.1M for Spain in 2nd place)
 
