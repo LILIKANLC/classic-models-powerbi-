@@ -87,9 +87,8 @@ Monthly Revenue Trend and Revenue by Product Line.
 ![Sales Overview](screenshots/01_sales_overview.png)
 
 **Page 2 - Geography & Growth**
-Revenue by Country (filled map), Year-over-Year Revenue Growth, Revenue by Quarter.
+Revenue by Country (filled map), Year-over-Year Revenue Growth (2005 data covers January-October only), Revenue by Quarter.
 *Revenue grew 36% from 2003 to 2004. USA leads with $3.3M - 3x more than Spain in 2nd place.*
-*Note: 2005 data covers January-October only.*
 
 ![Geography and Growth](screenshots/02_geography_growth.png)
 
