@@ -160,7 +160,7 @@ Summary of findings and actionable business recommendations.
 
 3. **Run a re-engagement campaign** for bottom-tier customers - even modest improvement in low-engagement accounts would meaningfully impact total profit
 
-4. **Invest in new customer acquisition** - LTV of $39K per customer justifies significant marketing spend; focus on Spain, France, and Australia as high-potential markets
+4. **Invest in new customer acquisition** - avg profit of $39K per customer justifies significant marketing spend; focus on Spain, France, and Australia as high-potential markets
 
 5. **Plan inventory and staffing increases for October–November** to handle peak season demand without stockouts
 
