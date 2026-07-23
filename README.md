@@ -88,8 +88,8 @@ Monthly Revenue Trend and Revenue by Product Line.
 
 **Page 2 - Geography & Growth**
 Revenue by Country (filled map), Year-over-Year Revenue Growth, Revenue by Quarter.
-*Revenue grew 36% from 2003 to 2004. USA leads with $3.3M — 3x more than Spain in 2nd place.*
-*Note: 2005 data covers January–October only.*
+*Revenue grew 36% from 2003 to 2004. USA leads with $3.3M - 3x more than Spain in 2nd place.*
+*Note: 2005 data covers January-October only.*
 
 ![Geography and Growth](screenshots/02_geography_growth.png)
 
@@ -107,13 +107,13 @@ Profit Margin % by Product Line, Inventory count, Bottom 10 Products by Performa
 
 **Page 5 - Customer Overview**
 New Customers by Month, Top 10 VIP and Bottom 5 Customers by Profit.
-*No new customers acquired after September 2004 — a critical signal for marketing strategy.*
+*No new customers acquired after September 2004 - a critical signal for marketing strategy.*
 
 ![Customer Overview](screenshots/05_customer_overview.png)
 
 **Page 6 - Customer Segments**
 Top 10 Countries by Revenue and Customer Value Analysis scatter chart.
-*Euro+ Shopping Channel and Mini Gifts Distributors are clear outliers — VIP segment drives disproportionate profit.*
+*Euro+ Shopping Channel and Mini Gifts Distributors are clear outliers - VIP segment drives disproportionate profit.*
 
 ![Customer Segments](screenshots/06_customer_segments.png)
 
