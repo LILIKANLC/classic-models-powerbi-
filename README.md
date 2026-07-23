@@ -57,45 +57,25 @@ Relationships: orders → customers, orderdetails → products → productlines,
 ## DAX Measures
 
 | Measure | Formula / Purpose |
-
-|---|---|
-
-| Total Revenue | SUMX on orderdetails Revenue column |
-
-| Total Profit | SUMX on orderdetails Profit column |
-
-| Total Orders | DISTINCTCOUNT of orderNumber |
-
-| Total Customers | DISTINCTCOUNT of customerNumber |
-
-| Avg Order Value | Total Revenue / Total Orders |
-
-| Profit Margin % | Total Profit / Total Revenue |
-
-| YTD Revenue | TOTALYTD of Total Revenue |
-
-| MTD Revenue | TOTALMTD of Total Revenue |
-
-| QTD Revenue | TOTALQTD of Total Revenue |
-
-| Revenue LY | CALCULATE with SAMEPERIODLASTYEAR |
-
-| Revenue Growth % | (Total Revenue − Revenue LY) / Revenue LY |
-
-| Customer LTV | Total Revenue / Total Customers |
-
-| Avg Profit per Customer | Total Profit / Total Customers |
-
-| Avg Shipping Days | AVERAGE of ShippingDays column |
-
-| Low Stock Ratio | SUM(quantityOrdered) / MAX(quantityInStock) |
-
-| Low Stock Items | Count of products where Low Stock Ratio > 1 |
-
-| New Customers | Customers placing their first order in the period |
-
-| Top Country | Country with highest Total Revenue |
-
+|---------|-------------------|
+| **Total Revenue** | `SUMX` over the **Revenue** column in `orderdetails` |
+| **Total Profit** | `SUMX` over the **Profit** column in `orderdetails` |
+| **Total Orders** | `DISTINCTCOUNT` of `orderNumber` |
+| **Total Customers** | `DISTINCTCOUNT` of `customerNumber` |
+| **Avg Order Value** | `Total Revenue / Total Orders` |
+| **Profit Margin %** | `Total Profit / Total Revenue` |
+| **YTD Revenue** | `TOTALYTD(Total Revenue)` |
+| **MTD Revenue** | `TOTALMTD(Total Revenue)` |
+| **QTD Revenue** | `TOTALQTD(Total Revenue)` |
+| **Revenue LY** | `CALCULATE` with `SAMEPERIODLASTYEAR` |
+| **Revenue Growth %** | `(Total Revenue − Revenue LY) / Revenue LY` |
+| **Customer LTV** | `Total Revenue / Total Customers` |
+| **Avg Profit per Customer** | `Total Profit / Total Customers` |
+| **Avg Shipping Days** | `AVERAGE` of the `ShippingDays` column |
+| **Low Stock Ratio** | `SUM(quantityOrdered) / MAX(quantityInStock)` |
+| **Low Stock Items** | Count of products where **Low Stock Ratio > 1** |
+| **New Customers** | Customers placing their first order during the selected period |
+| **Top Country** | Country with the highest **Total Revenue** |
 
 ## Dashboard Structure
 
