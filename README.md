@@ -97,7 +97,7 @@ Revenue by Country (filled map), Year-over-Year Revenue Growth (2005 data covers
 **Page 3 - Product Performance**
 
 Top 10 Products by Performance and Stock Risk vs Revenue scatter chart.
-**Three products identified as critical restocking priorities: 1968 Ford Mustang, 1928 Ford Phaeton Deluxe, and 1997 BMW F650 ST - high revenue performance combined with dangerously low stock levels.*. Note: One extreme outlier (Stock Risk = 67.67) was excluded to improve visualization readability.*
+*Three products identified as critical restocking priorities: 1968 Ford Mustang, 1928 Ford Phaeton Deluxe, and 1997 BMW F650 ST - high revenue performance combined with dangerously low stock levels*. Note: One extreme outlier (Stock Risk = 67.67) was excluded to improve visualization readability.*
 
 ![Product Performance](screenshots/03_product_performance.png)
 
