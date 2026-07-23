@@ -95,7 +95,7 @@ Revenue by Country (filled map), Year-over-Year Revenue Growth, Revenue by Quart
 
 **Page 3 - Product Performance**
 Top 10 Products by Performance and Stock Risk vs Revenue scatter chart.
-*Two products identified as critical: high revenue but dangerously low stock levels.*
+*Three products identified as critical: high revenue but dangerously low stock levels.*
 
 ![Product Performance](screenshots/03_product_performance.png)
 
