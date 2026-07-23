@@ -91,43 +91,27 @@ Slicers: Select Year, Select Product Line.
 
 **Page 2 - Geography & Growth**
 
-Revenue by Country (filled map), Year-over-Year Revenue Growth (column chart),
-
-Revenue by Quarter (line chart).
+Revenue by Country (filled map), Year-over-Year Revenue Growth (column chart), Revenue by Quarter (line chart).
 
 Note: 2005 data covers January–October only - full-year comparison is not applicable.
 
 **Page 3 - Product Performance**
 
-Top 10 Products by Performance (bar chart),
-
-Revenue Performance vs Stock Availability (scatter chart - products with high demand
-
-and low stock are highlighted as critical restocking priorities).
+Top 10 Products by Performance (bar chart), Revenue Performance vs Stock Availability (scatter chart - products with high demand and low stock are highlighted as critical restocking priorities).
 
 **Page 4 - Inventory Analysis**
 
-Profit Margin % by Product Line (bar chart),
-
-Current Inventory by Product Line (bar chart - count of products),
-
-Bottom 10 Products by Performance (candidates for inventory reduction).
+Profit Margin % by Product Line (bar chart), Current Inventory by Product Line (bar chart - count of products), Bottom 10 Products by Performance (candidates for inventory reduction).
 
 **Page 5 - Customer Overview**
 
 KPI cards: Total Customers, Customer LTV, Avg Profit per Customer, Top Country.
 
-New Customers by Month (line chart - acquisition trend by year),
-
-Top 10 VIP Customers by Profit, Bottom 5 Customers by Profit.
+New Customers by Month (line chart - acquisition trend by year), Top 10 VIP Customers by Profit, Bottom 5 Customers by Profit.
 
 **Page 6 - Customer Segments**
 
-Top 10 Countries by Revenue (bar chart),
-
-Customer Value Analysis (scatter chart - LTV vs Total Profit per customer,
-
-VIP segment clearly separated from regular customers).
+Top 10 Countries by Revenue (bar chart), Customer Value Analysis (scatter chart - LTV vs Total Profit per customer, VIP segment clearly separated from regular customers).
 
 **Page 7 - Key Insights & Recommendations**
 
