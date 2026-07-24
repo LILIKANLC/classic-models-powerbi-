@@ -40,7 +40,7 @@ Relationships: orders → customers, orderdetails → products → productlines,
 
 - Removed `comments` column from orders (over 80% empty)
 
-- Removed `addressLine2` from customers (sparse, no analytical value)
+- Removed `addressLine2` from customers (no analytical value)
 
 - Removed `textDescription` from productlines (free text, not used in analysis)
 
